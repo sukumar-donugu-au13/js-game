@@ -1,2 +1,3 @@
-# js-game
+
 # Just a basic game 
+## Using Js
